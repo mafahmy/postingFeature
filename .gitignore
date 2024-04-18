@@ -1,6 +1,7 @@
 # dependencies
 /node_modules
-/front_end/node_modules
+/frontEnd/node_modules
+
 # testing
 /coverage
 # production
